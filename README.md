@@ -37,6 +37,9 @@ Executing this command will compile the application for production, producing ou
 
 ## Application's Screenshots :
 
+![Screenshot (896)](https://github.com/samtaxak11/IoTMusic/assets/97292068/b79775ce-f9c8-468e-ae11-813fab449539)
+![Screenshot (897)](https://github.com/samtaxak11/IoTMusic/assets/97292068/acf019d0-f0b1-4b98-9976-b5f13244bb4f)
+
 
 ## Personal Links :
 ### Portfolio : https://sourabhtakshak.netlify.app/
