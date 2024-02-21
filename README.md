@@ -26,7 +26,7 @@ npm install
 ```
 npm start
 ```
-Executing this command will launch the application in development mode. To preview it in the browser, navigate to http://localhost:3000. Any edits made will trigger an automatic page reload.
+Executing this command will launch the application in development mode. To preview it in the browser, navigate to http://localhost:5173. Any edits made will trigger an automatic page reload.
 
 ## Production Building :
 For generating a production build, execute:
