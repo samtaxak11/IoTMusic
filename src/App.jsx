@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Navbar } from './components/Navbar';
 import { LandingPage } from './components/LandingPage';
 import { Marquee } from './components/Marquee';
-import AudioPlayer from './components/AudioPlayer';
+import Player from './components/Player';
 
 export default function App() {
   return (
@@ -12,7 +12,7 @@ export default function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<LandingPage />} />
-        <Route path="/play" element={<AudioPlayer />} />
+        <Route path="/play" element={<Player />} />
       </Routes>
       <Marquee />
       </BrowserRouter>
